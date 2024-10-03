@@ -1,0 +1,4 @@
+CC = gcc
+
+file_system: file_system.o
+
